@@ -1,0 +1,48 @@
+*
+{
+    padding: 0px;
+    margin:0px;
+    font-family:lato;
+}
+input[type="text"]
+{
+    border-top:none;
+    border-left:none;
+    border-right:none;
+   margin:10px;
+    width:50%;
+  
+}
+
+form{
+    width:50%;
+    border:1px solid black;
+    margin: 30px auto;
+    align-content: center;
+    text-align: center;
+    display: none;
+
+}
+input[type="button"]
+{
+  align-content: right;
+  width:15%;
+  height: 30px;
+  
+  
+}
+#add_note
+{
+    margin:100px;
+    float:right;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    border:solid 1px black;
+    width:50%;
+    margin:auto;
+    text-align: center;
+}
